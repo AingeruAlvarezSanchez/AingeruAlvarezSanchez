@@ -21,7 +21,7 @@
     </p>
     <br>
     <div title="statistics" align="center">
-        <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AingeruAlvarezSanchez"><img alt="GitHub statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AingeruAlvarezSanchez&theme=tokyonight"></a>
+        <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AingeruAlvarezSanchez"><img alt="GitHub statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AingeruAlvarezSanchez&theme=cobalt"></a>
     </div>
     <div title="Known_technologies" align="center">
         <h2 align="center">Known technologies</h2>
@@ -42,7 +42,7 @@
     </div>
     <br>
     <div title="Remarkable projects" align="center">
-        <h3>Some of my projects to the moment</h3>
+        <h3>Click on the arrow below to see some of my projects</h3>
         <details>
             <summary></summary>
             <table>
