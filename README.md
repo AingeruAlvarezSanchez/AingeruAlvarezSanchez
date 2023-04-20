@@ -1,4 +1,5 @@
 <body>
+    <img alt="header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F2BDD7,100:86E7F3&height=200&section=header"/>
     <h1 align="center">
         I am Aingeru Álvarez.
         Welcome to my GitHub profile!
@@ -87,4 +88,5 @@
             </table>
         </details>
     </div>
+    <img alt="footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F2BDD7,100:86E7F3&height=200&section=footer"/>
 </body>
