@@ -40,9 +40,10 @@
         <img alt="css_badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </div>
     <br>
-    <div title="Remarkable projects">
+    <div title="Remarkable projects" align="center">
+        <h3>Some of my projects to the moment</h3>
         <details>
-            <summary align="center"><font size="5">Some of my projects to the moment</font></summary>
+            <summary></summary>
             <table>
                 <thead>
                     <tr>
