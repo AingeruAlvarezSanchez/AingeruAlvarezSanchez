@@ -30,6 +30,7 @@
         <img alt="C++_badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img alt="C#_badge" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
         <img alt="TS_badge" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img alt="Python_badge" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         <h3 align="center">Code and text editors</h3>
         <img alt="clion_badge" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
         <img alt="webstorm_badge" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
