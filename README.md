@@ -6,7 +6,7 @@
     </h1>
     <div title="contact" align="center">
         <a href="https://www.linkedin.com/in/aingeru-alvarez/"><img alt="Linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto:aingeru.dev@gmail.com?subject:Mail from GitHub"><img alt="Gmail contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="mailto:aingeru.develop@gmail.com?subject:Mail from GitHub"><img alt="Gmail contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a href="mailto:aingeru.alvarez@outlook.com?subject:Mail from GitHub"><img alt="Outlook contact" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
         <a href="https://www.hackerrank.com/aingeru_dev"><img alt="HackerRank profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     </div>
