@@ -1,98 +1,63 @@
-<body>
-    <img alt="header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F2BDD7,100:86E7F3&height=200&section=header"/>
-    <h1 align="center">
-        I am Aingeru Álvarez.
-        Welcome to my GitHub profile!
-    </h1>
-    <div title="contact" align="center">
-        <a href="https://www.linkedin.com/in/aingeru-alvarez/"><img alt="Linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-        <a href="mailto:aingeru.develop@gmail.com?subject:Mail from GitHub"><img alt="Gmail contact" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="mailto:aingeru.alvarez@outlook.com?subject:Mail from GitHub"><img alt="Outlook contact" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-        <a href="https://www.hackerrank.com/aingeru_dev"><img alt="HackerRank profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    </div>
-    <br>
-    <p align="justify">
-        Hello, I am a passionate software developer specialized
-        in the C and C++ programming languages. I love creating
-        efficient and scalable technological solutions to solve
-        complex problems. I'm always looking for new challenges
-        to keep improving my software developing skills, feel free
-        to contact me if you have any question or interesting proposal!
-    </p>
-    <br>
-    <div title="statistics" align="center">
-        <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AingeruAlvarezSanchez"><img alt="GitHub statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AingeruAlvarezSanchez&theme=cobalt"></a>
-    </div>
-    <div title="Known_technologies" align="center">
-        <h2 align="center">Known technologies</h2>
-<h3 align="center">Languages</h3>
-        <img alt="C_badge" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-        <img alt="C++_badge" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img alt="C#_badge" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-        <img alt="Java_badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img alt="COBOL_badge" src="https://img.shields.io/badge/COBOL-31497D?style=for-the-badge">
-<h3 align="center">Frameworks & Platforms</h3>
-        <img alt="Spring_badge" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        <img alt=".NET_badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-<h3 align="center">Code and text editors</h3>
-        <img alt="clion_badge" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-        <img alt="webstorm_badge" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
-        <img alt="vscode_badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img alt="vim_badge" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-<h3 align="center">Markup and design</h3>
-        <img alt="html_badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img alt="css_badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<h3 align="center">DevOps</h3>
-        <img alt="docker_badge" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-        <img alt="k8s_badge" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-    </div>
-    <br>
-    <div title="Remarkable projects" align="center">
-        <h3>Click on the arrow below to see some of my projects</h3>
-        <details>
-            <summary></summary>
-            <table>
-                <thead>
-                    <tr>
-                        <th>Project name</th>
-                        <th>Language / Technology</th>
-                        <th>Brief description</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td align="center"><a href="https://github.com/AingeruAlvarezSanchez/cub3d">Cub3d</a></td>
-                        <td align="center">C / Makefile</td>
-                        <td>A minimalistic game using basic computer graphics and ray-casting.</td>
-                    </tr>
-                    <tr>
-                        <td align="center"><a href="https://github.com/AingeruAlvarezSanchez/inception">Inception</a></td>
-                        <td align="center">Docker / nginx / wordpress / mariadb</td>
-                        <td>A web page created on WordPress using a microservices architecture.</td>
-                    </tr>
-                    <tr>
-                        <td align="center"><a href="https://github.com/AingeruAlvarezSanchez/ft_containers">ft_containers</a></td>
-                        <td align="center">C++ / Makefile</td>
-                        <td>A recreation of some of the original containers featured on the STL, with concepts such as templates and SFINAE.</td>
-                    </tr>
-                    <tr>
-                        <td align="center"><a href="https://github.com/AingeruAlvarezSanchez/minishell">Minishell</a></td>
-                        <td align="center">C / Makefile</td>
-                        <td>First approach to creating a minimalistic shell, capable of managing multiple commands and instructions.</td>
-                    </tr>
-                    <tr>
-                        <td align="center"><a href="https://github.com/AingeruAlvarezSanchez/philo">philosophers</a></td>
-                        <td align="center">C / Makefile</td>
-                        <td>Multi-thread managing program representing the problem of the dining philosophers.</td>
-                    </tr>
-                    <tr>
-                        <td align="center"><a href="https://github.com/AingeruAlvarezSanchez/cpp_module">cpp_module</a></td>
-                        <td align="center">C++ / Makefile</td>
-                        <td>My first approach to C++, a collection of small exercises in which I learned the bases of the language.</td>
-                    </tr>
-                </tbody>
-            </table>
-        </details>
-    </div>
-    <img alt="footer" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F2BDD7,100:86E7F3&height=200&section=footer"/>
-</body>
+<p align="center">
+<img width="100%" src="assets/header.svg" alt="Aingeru Álvarez - Software Developer"/>
+</p>
+
+### Backend-oriented Software developer. I build backend systems in C, C++ and Java (both vanilla and Spring).
+### Outside of that, I'm an enthusiastic, self-taught open source nerd, more curiosity than credentials so far, but genuinely hooked on reading other people's code and shipping small contributions where I can. I tinker with game development on the side just for fun, and I'm slowly, deliberately, building a path into cybersecurity.
+### I grew up playing SimCity 3000 and Imperium III, which is honestly where all of this started, that mix of building systems and watching them run is still what gets me.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aingeru-alvarez/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aingerualvarezsoftware@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### Stack
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java" alt="languages" height="48"/>
+
+**Frameworks & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,maven" alt="frameworks and platforms" height="48"/>
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" alt="databases" height="48"/>
+
+**Code / text editors**
+<br>
+<img src="https://skillicons.dev/icons?i=clion,webstorm,vscode,vim" alt="editors" height="48"/>
+
+**DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git" alt="devops" height="48"/>
+
+**OS & Shell**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,bash" alt="os and shell" height="48"/>
+
+</div>
+
+---
+
+### Featured projects
+
+| Project                                                                             | Description                                                              | Technologies                                    | Key concepts                                                              |
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------|
+| [woody-woodpacker](https://github.com/AingeruAlvarezSanchez/woody-woodpacker)       | ELF packer that injects and runs a payload inside a target binary.       | `C` `ASM`                                       | Reverse Engineering, Binary Exploitation, Low-Level Security              |
+| [Webserv](https://github.com/AingeruAlvarezSanchez/Webserv)                         | HTTP server from scratch, non-blocking sockets, NGINX-style config.      | `C++`                                           | Network Programming, Systems Programming, Concurrent Programming          |
+| [push_swap](https://github.com/AingeruAlvarezSanchez/push_swap)                     | Sorting algorithm restricted to two stacks, optimized for minimal moves. | `C`                                             | Algorithm Design, Data Structures, Optimization                           |
+| [Inception-Of-Things](https://github.com/AingeruAlvarezSanchez/Inception-Of-Things) | K3s/K3d cluster provisioned with Vagrant, GitOps via ArgoCD.             | `Kubernetes` `Docker` `Ruby` `Vagrant` `ArgoCD` | DevOps, Cloud Infrastructure, Infrastructure as Code, CI/CD               |
+| [libasm](https://github.com/AingeruAlvarezSanchez/libasm)                           | Core libc string functions rewritten in x86-64 assembly.                 | `C` `ASM`                                       | Low-Level Programming, Systems Architecture, Performance Optimization     |
+| [ft_containers](https://github.com/AingeruAlvarezSanchez/ft_containers)             | STL container reimplementation, templates and SFINAE.                    | `C++`                                           | Object-Oriented Design, Generic Programming, Data Structures & Algorithms |
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/FPjJbgVfBKe2ZQKPyr/giphy.gif" width="680" alt="Silicon Valley"/>
+</p>
